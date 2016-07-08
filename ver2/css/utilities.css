@@ -6,6 +6,14 @@
   text-transform: none;
 }
 
+.u-text-transform-uppercase {
+  text-transform: uppercase;
+}
+
 .u-text-white {
   color: white;
+}
+
+.u-margin-bottom-medium {
+  margin-bottom: 10px !important;
 }

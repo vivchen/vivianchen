@@ -17,3 +17,8 @@
 .u-margin-bottom-medium {
   margin-bottom: 10px !important;
 }
+
+
+.u-border-bottom {
+  border-bottom: 1px solid white;
+}
